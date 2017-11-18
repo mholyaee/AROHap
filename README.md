@@ -1,6 +1,6 @@
 # AROHap
 AROhap is a useful program to reconstruct haplotype sequences. This method involves two steps:
-First, like FasHap method which has been proposed in the below article, constructs a fuzzy conflict graph based on the similarity of input fragments. Second, use Asexual reproduction optimization algorithm as a fast convergence speed evoulotionary method, to improves the inital partitioning.
+First, like FasHap [1] method, constructs a fuzzy conflict graph based on the similarity of input fragments and provides an initial bi-partitioning. Second, use Asexual reproduction optimization algorithm as a fast convergence speed evoulotionary based method, to improves the inital partitioning.
 
 These features not only enhance reconstruction rate but also improve the running time of the method.
 
@@ -19,8 +19,7 @@ The details of used dataset can be accessible in the below paper:
 
 F. Geraci, "A comparison of several algorithms for the single individual SNP haplotyping reconstruction problem," Bioinformatics, vol. 26, pp. 2217-2225, 2010.
 
-Finally, some interesting methods, such as FastHap, GAHap and FCMHap have been implemented in Matlab which can be used with the same name.
-More details of these approaches can be found in their related papers which have been listed respectively:
+Finally, some interesting methods, such as FastHap[1], GAHap[2] and FCMHap[3] have been implemented in Matlab which can be used with the same name.
 
 [1] S. Mazrouee and W. Wang, "FastHap: fast and accurate single individual haplotype reconstruction using fuzzy conflict graphs," published in Bioinformatics, vol. 30, pp. i371-i378, 2014.
 
