@@ -19,7 +19,7 @@ The details of used dataset can be accessible in the below paper:
 
 F. Geraci, "A comparison of several algorithms for the single individual SNP haplotyping reconstruction problem," Bioinformatics, vol. 26, pp. 2217-2225, 2010.
 
-Finally, some interesting methods, such as FastHap[1], GAHap[2] and FCMHap[3] have been implemented in Matlab which can be used with the same name.
+Finally, some interesting methods, such as FastHap[1] and GAHap[2] have been implemented in Matlab which can be used with the same name.
 
 [1] S. Mazrouee and W. Wang, "FastHap: fast and accurate single individual haplotype reconstruction using fuzzy conflict graphs," published in Bioinformatics, vol. 30, pp. i371-i378, 2014.
 
