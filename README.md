@@ -25,8 +25,6 @@ Finally, some interesting methods, such as FastHap[1], GAHap[2] and FCMHap[3] ha
 
 [2] T.-C. Wang, J. Taheri, and A. Y. Zomaya, "Using genetic algorithm in reconstructing single individual haplotype with minimum error correction," published in Journal of biomedical informatics, vol. 45, pp. 922-930, 2012.
 
-[3] M.-H. Olyaee and A. R. Khanteymoori, "Single Individual Haplotype Reconstruction Using Fuzzy C-Means Clustering with Minimum Error Correction," accepted in Bioinformatics and Biocomputational Research (BBR), vol. 3, 2017.
-
 # Feedback
 
 Its pleasure for me to have your comment.
