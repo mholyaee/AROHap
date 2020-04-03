@@ -4,6 +4,10 @@ First, like FasHap [1] method, constructs a fuzzy conflict graph based on the si
 
 These features not only enhance reconstruction rate but also improve the running time of the method.
 
+You can access to our published article from:
+
+https://www.sciencedirect.com/science/article/pii/S1476927116305369
+
 # Requirement:
 
 This program is suitable for MATLAB R2013a and above versions.
