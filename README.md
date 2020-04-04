@@ -8,12 +8,12 @@ These features not only enhance reconstruction rate but also improve the running
 
 https://www.sciencedirect.com/science/article/pii/S1476927116305369
 
-# Requirement:
+## Requirement:
 
 This program is suitable for MATLAB R2013a and above versions.
 The program has adopted by Geraci's dataset. By some little change it can be used for any input data.
 
-# Running AROHap
+## Running AROHap
 
 For this purpose it is only need to run AROhap.m file.
 
@@ -29,7 +29,7 @@ Finally, some interesting methods, such as FastHap[1] and GAHap[2] have been imp
 
 [2] T.-C. Wang, J. Taheri, and A. Y. Zomaya, "Using genetic algorithm in reconstructing single individual haplotype with minimum error correction," published in Journal of biomedical informatics, vol. 45, pp. 922-930, 2012.
 
-# Feedback
+## Feedback
 
 Its pleasure for me to have your comment.
 mh.olyaee@gmail.com
